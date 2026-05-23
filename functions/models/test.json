@@ -1,0 +1,452 @@
+{
+    "type": "bubble",
+    "direction": "ltr",
+    "header": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [{
+            "type": "text",
+            "text": "ตะกร้าสินค้า",
+            "align": "center",
+            "contents": []
+        }]
+    },
+    "body": {
+        "type": "box",
+        "layout": "vertical",
+        "paddingAll": "10px",
+        "contents": [{
+            "type": "box",
+            "layout": "vertical",
+            "spacing": "sm",
+            "contents": [{
+                "type": "box",
+                "layout": "vertical",
+                "spacing": "sm",
+                "paddingAll": "10px",
+                "backgroundColor": "#5BD0FF96",
+                "cornerRadius": "10px",
+                "contents": [{
+                    "type": "box",
+                    "layout": "horizontal",
+                    "spacing": "md",
+                    "contents": [{
+                        "type": "box",
+                        "layout": "vertical",
+                        "paddingAll": "0px",
+                        "width": "40px",
+                        "contents": [{
+                            "type": "filler"
+                        }, {
+                            "type": "image",
+                            "url": "https://tamniyombot65-eafd4.web.app/assets/images/products/xs/10/101.jpg",
+                            "align": "center",
+                            "gravity": "center",
+                            "aspectMode": "cover"
+                        }, {
+                            "type": "filler"
+                        }]
+                    }, {
+                        "type": "box",
+                        "layout": "vertical",
+                        "spacing": "sm",
+                        "contents": [{
+                            "type": "box",
+                            "layout": "horizontal",
+                            "contents": [{
+                                "type": "text",
+                                "text": "แผงโซล่าเซลล์ 50w mono",
+                                "size": "sm",
+                                "flex": 9,
+                                "wrap": true,
+                                "contents": []
+                            }]
+                        }, {
+                            "type": "separator",
+                            "color": "#7D7D7DFF"
+                        }, {
+                            "type": "box",
+                            "layout": "horizontal",
+                            "spacing": "xs",
+                            "contents": [{
+                                "type": "text",
+                                "text": "1x",
+                                "weight": "bold",
+                                "size": "xs",
+                                "flex": 1,
+                                "align": "end",
+                                "contents": []
+                            }, {
+                                "type": "text",
+                                "text": "1,100",
+                                "size": "xs",
+                                "flex": 2,
+                                "contents": []
+                            }, {
+                                "type": "text",
+                                "text": "=",
+                                "size": "xs",
+                                "flex": 1,
+                                "contents": []
+                            }, {
+                                "type": "text",
+                                "text": "THB 1,100.00",
+                                "weight": "bold",
+                                "size": "xs",
+                                "flex": 5,
+                                "align": "end",
+                                "contents": []
+                            }]
+                        }]
+                    }]
+                }]
+            }, {
+                "type": "box",
+                "layout": "vertical",
+                "spacing": "sm",
+                "paddingAll": "10px",
+                "backgroundColor": "#5BD0FF96",
+                "cornerRadius": "10px",
+                "contents": [{
+                    "type": "box",
+                    "layout": "horizontal",
+                    "spacing": "md",
+                    "contents": [{
+                        "type": "box",
+                        "layout": "vertical",
+                        "paddingAll": "0px",
+                        "width": "40px",
+                        "contents": [{
+                            "type": "filler"
+                        }, {
+                            "type": "image",
+                            "url": "https://tamniyombot65-eafd4.web.app/assets/images/products/xs/20/201.jpg",
+                            "align": "center",
+                            "gravity": "center",
+                            "aspectMode": "cover"
+                        }, {
+                            "type": "filler"
+                        }]
+                    }, {
+                        "type": "box",
+                        "layout": "vertical",
+                        "spacing": "sm",
+                        "contents": [{
+                            "type": "box",
+                            "layout": "horizontal",
+                            "contents": [{
+                                "type": "text",
+                                "text": "ปั้มซัพเมิร์ส 300w สำหรับบ่อ 3 นิ้วขึ้นไป ท่อออก 1.25 นิ้ว",
+                                "size": "sm",
+                                "flex": 9,
+                                "wrap": true,
+                                "contents": []
+                            }]
+                        }, {
+                            "type": "separator",
+                            "color": "#7D7D7DFF"
+                        }, {
+                            "type": "box",
+                            "layout": "horizontal",
+                            "spacing": "xs",
+                            "contents": [{
+                                "type": "text",
+                                "text": "4x",
+                                "weight": "bold",
+                                "size": "xs",
+                                "flex": 1,
+                                "align": "end",
+                                "contents": []
+                            }, {
+                                "type": "text",
+                                "text": "5,900",
+                                "size": "xs",
+                                "flex": 2,
+                                "contents": []
+                            }, {
+                                "type": "text",
+                                "text": "=",
+                                "size": "xs",
+                                "flex": 1,
+                                "contents": []
+                            }, {
+                                "type": "text",
+                                "text": "THB 23,600.00",
+                                "weight": "bold",
+                                "size": "xs",
+                                "flex": 5,
+                                "align": "end",
+                                "contents": []
+                            }]
+                        }]
+                    }]
+                }]
+            }, {
+                "type": "box",
+                "layout": "vertical",
+                "spacing": "sm",
+                "paddingAll": "10px",
+                "backgroundColor": "#5BD0FF96",
+                "cornerRadius": "10px",
+                "contents": [{
+                    "type": "box",
+                    "layout": "horizontal",
+                    "spacing": "md",
+                    "contents": [{
+                        "type": "box",
+                        "layout": "vertical",
+                        "paddingAll": "0px",
+                        "width": "40px",
+                        "contents": [{
+                            "type": "filler"
+                        }, {
+                            "type": "image",
+                            "url": "https://tamniyombot65-eafd4.web.app/assets/images/products/xs/30/304.jpg",
+                            "align": "center",
+                            "gravity": "center",
+                            "aspectMode": "cover"
+                        }, {
+                            "type": "filler"
+                        }]
+                    }, {
+                        "type": "box",
+                        "layout": "vertical",
+                        "spacing": "sm",
+                        "contents": [{
+                            "type": "box",
+                            "layout": "horizontal",
+                            "contents": [{
+                                "type": "text",
+                                "text": "solar charger 60A mppt",
+                                "size": "sm",
+                                "flex": 9,
+                                "wrap": true,
+                                "contents": []
+                            }]
+                        }, {
+                            "type": "separator",
+                            "color": "#7D7D7DFF"
+                        }, {
+                            "type": "box",
+                            "layout": "horizontal",
+                            "spacing": "xs",
+                            "contents": [{
+                                "type": "text",
+                                "text": "2x",
+                                "weight": "bold",
+                                "size": "xs",
+                                "flex": 1,
+                                "align": "end",
+                                "contents": []
+                            }, {
+                                "type": "text",
+                                "text": "3,900",
+                                "size": "xs",
+                                "flex": 2,
+                                "contents": []
+                            }, {
+                                "type": "text",
+                                "text": "=",
+                                "size": "xs",
+                                "flex": 1,
+                                "contents": []
+                            }, {
+                                "type": "text",
+                                "text": "THB 7,800.00",
+                                "weight": "bold",
+                                "size": "xs",
+                                "flex": 5,
+                                "align": "end",
+                                "contents": []
+                            }]
+                        }]
+                    }]
+                }]
+            }, {
+                "type": "box",
+                "layout": "vertical",
+                "spacing": "sm",
+                "paddingAll": "10px",
+                "backgroundColor": "#5BD0FF96",
+                "cornerRadius": "10px",
+                "contents": [{
+                    "type": "box",
+                    "layout": "horizontal",
+                    "spacing": "md",
+                    "contents": [{
+                        "type": "box",
+                        "layout": "vertical",
+                        "paddingAll": "0px",
+                        "width": "40px",
+                        "contents": [{
+                            "type": "filler"
+                        }, {
+                            "type": "image",
+                            "url": "https://tamniyombot65-eafd4.web.app/assets/images/products/xs/40/405.jpg",
+                            "align": "center",
+                            "gravity": "center",
+                            "aspectMode": "cover"
+                        }, {
+                            "type": "filler"
+                        }]
+                    }, {
+                        "type": "box",
+                        "layout": "vertical",
+                        "spacing": "sm",
+                        "contents": [{
+                            "type": "box",
+                            "layout": "horizontal",
+                            "contents": [{
+                                "type": "text",
+                                "text": "inverter ongrid 1.6 kw ",
+                                "size": "sm",
+                                "flex": 9,
+                                "wrap": true,
+                                "contents": []
+                            }]
+                        }, {
+                            "type": "separator",
+                            "color": "#7D7D7DFF"
+                        }, {
+                            "type": "box",
+                            "layout": "horizontal",
+                            "spacing": "xs",
+                            "contents": [{
+                                "type": "text",
+                                "text": "4x",
+                                "weight": "bold",
+                                "size": "xs",
+                                "flex": 1,
+                                "align": "end",
+                                "contents": []
+                            }, {
+                                "type": "text",
+                                "text": "9,500",
+                                "size": "xs",
+                                "flex": 2,
+                                "contents": []
+                            }, {
+                                "type": "text",
+                                "text": "=",
+                                "size": "xs",
+                                "flex": 1,
+                                "contents": []
+                            }, {
+                                "type": "text",
+                                "text": "THB 38,000.00",
+                                "weight": "bold",
+                                "size": "xs",
+                                "flex": 5,
+                                "align": "end",
+                                "contents": []
+                            }]
+                        }]
+                    }]
+                }]
+            }, {
+                "type": "box",
+                "layout": "vertical",
+                "spacing": "sm",
+                "paddingAll": "10px",
+                "backgroundColor": "#5BD0FF96",
+                "cornerRadius": "10px",
+                "contents": [{
+                    "type": "box",
+                    "layout": "horizontal",
+                    "spacing": "md",
+                    "contents": [{
+                        "type": "box",
+                        "layout": "vertical",
+                        "paddingAll": "0px",
+                        "width": "40px",
+                        "contents": [{
+                            "type": "filler"
+                        }, {
+                            "type": "image",
+                            "url": "https://tamniyombot65-eafd4.web.app/assets/images/products/xs/70/702.jpg",
+                            "align": "center",
+                            "gravity": "center",
+                            "aspectMode": "cover"
+                        }, {
+                            "type": "filler"
+                        }]
+                    }, {
+                        "type": "box",
+                        "layout": "vertical",
+                        "spacing": "sm",
+                        "contents": [{
+                            "type": "box",
+                            "layout": "horizontal",
+                            "contents": [{
+                                "type": "text",
+                                "text": "กันฟ้าผ่า DC 1000 vdc ",
+                                "size": "sm",
+                                "flex": 9,
+                                "wrap": true,
+                                "contents": []
+                            }]
+                        }, {
+                            "type": "separator",
+                            "color": "#7D7D7DFF"
+                        }, {
+                            "type": "box",
+                            "layout": "horizontal",
+                            "spacing": "xs",
+                            "contents": [{
+                                "type": "text",
+                                "text": "10x",
+                                "weight": "bold",
+                                "size": "xs",
+                                "flex": 1,
+                                "align": "end",
+                                "contents": []
+                            }, {
+                                "type": "text",
+                                "text": "250",
+                                "size": "xs",
+                                "flex": 2,
+                                "contents": []
+                            }, {
+                                "type": "text",
+                                "text": "=",
+                                "size": "xs",
+                                "flex": 1,
+                                "contents": []
+                            }, {
+                                "type": "text",
+                                "text": "THB 2,500.00",
+                                "weight": "bold",
+                                "size": "xs",
+                                "flex": 5,
+                                "align": "end",
+                                "contents": []
+                            }]
+                        }]
+                    }]
+                }]
+            }]
+        }]
+    },
+    "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [{
+            "type": "button",
+            "style": "primary",
+            "color": "#2689daff",
+            "action": {
+                "type": "uri",
+                "label": "ดูรายละเอียด & ส่งคำสั่งซื้อ",
+                "uri": "https://liff.line.me/1657071212-D1LxVWKg/cart/1eba32f8412748d9dc9fa3ad245735cc}"
+            }
+        }, {
+            "type": "text",
+            "text": "ข้อมูลตะกร้าเมื่อ 5/5/2022, 5:43 PM",
+            "size": "xxs",
+            "align": "center",
+            "flex": 2,
+            "contents": []
+        }]
+    }
+}

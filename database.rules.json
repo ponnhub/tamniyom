@@ -1,0 +1,32 @@
+{
+  "rules": {
+    ".read": false,
+    ".write": false,
+    "line-bot": {
+      "entities": {
+        "variants": {
+          ".indexOn": ".value"
+        },
+        "products": {
+          ".indexOn": ".value"
+        },
+        "categories": {
+          ".indexOn": ".value"
+        }
+
+      },
+      "categories": {
+        ".indexOn": "name"
+      },
+      "productWithVariants" : {
+        ".indexOn": "catname"
+      },
+      "products" : {
+        ".indexOn": "variant"
+      },
+      "users" : {
+        ".read" : true
+      }
+    }
+  }
+}

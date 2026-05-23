@@ -1,0 +1,23 @@
+[
+    {
+        "id" : "123",
+        "catId" : "123",
+        "name" : "สินค้าตัวอย่าง1",
+        "imageUrl" : "https://27d1-122-155-138-34.ap.ngrok.io/v0/b/tamniyombot65-eafd4.appspot.com/o/assets%2Fimages%2Ftamniyom_logo.jpeg?alt=media&token=d6bb2ce1-eb51-4775-8f94-907e164794df",
+        "details" : "รายละเอียดสินค้า..."
+    },
+    {
+        "id" : "124",
+        "catId" : "234",
+        "name" : "สินค้าตัวอย่าง2",
+        "imageUrl" : "https://27d1-122-155-138-34.ap.ngrok.io/v0/b/tamniyombot65-eafd4.appspot.com/o/assets%2Fimages%2Ftamniyom_logo.jpeg?alt=media&token=d6bb2ce1-eb51-4775-8f94-907e164794df",
+        "details" : "รายละเอียดสินค้า..."
+    },
+    {
+        "id" : "125",
+        "catId" : "1234",
+        "name" : "สินค้าตัวอย่าง3",
+        "imageUrl" : "https://27d1-122-155-138-34.ap.ngrok.io/v0/b/tamniyombot65-eafd4.appspot.com/o/assets%2Fimages%2Ftamniyom_logo.jpeg?alt=media&token=d6bb2ce1-eb51-4775-8f94-907e164794df",
+        "details" : "รายละเอียดสินค้า..."
+    }
+]

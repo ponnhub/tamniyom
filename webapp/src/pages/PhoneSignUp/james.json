@@ -1,0 +1,23 @@
+{
+    "uid": "bRwTU8kz15OMYpMel42XAK4Sg0S2",
+    "emailVerified": false,
+    "isAnonymous": false,
+    "phoneNumber": "+66655695782",
+    "providerData": [{
+        "providerId": "phone",
+        "uid": "+66655695782",
+        "displayName": null,
+        "email": null,
+        "phoneNumber": "+66655695782",
+        "photoURL": null
+    }],
+    "stsTokenManager": {
+        "refreshToken": "AIwUaOmnlY6R7e7bDYZHmwS2lIB8Lzt_0dIFaB_SzXRRPPefXzYn-HozHoRZ1IvmmWeFfISIejolaizQ8NZXwEL_Ggq-SGll7XnypKHTR5aiV7aK_U5_QmaZxsxeeASgyIVUB7JBs0sJiUK0hcnnYM48lhr8QfS1cy8Unn5Mz9z0UGK1ekLkirBGtsRjogUjqTdo1Hq59Bz1",
+        "accessToken": "eyJhbGciOiJSUzI1NiIsImtpZCI6IjJkYzBlNmRmOTgyN2EwMjA2MWU4MmY0NWI0ODQwMGQwZDViMjgyYzAiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL3NlY3VyZXRva2VuLmdvb2dsZS5jb20vdnRkLXNlcnZpY2VzIiwiYXVkIjoidnRkLXNlcnZpY2VzIiwiYXV0aF90aW1lIjoxNjQ2OTg1NjQ0LCJ1c2VyX2lkIjoiYlJ3VFU4a3oxNU9NWXBNZWw0MlhBSzRTZzBTMiIsInN1YiI6ImJSd1RVOGt6MTVPTVlwTWVsNDJYQUs0U2cwUzIiLCJpYXQiOjE2NDY5ODU2NDQsImV4cCI6MTY0Njk4OTI0NCwicGhvbmVfbnVtYmVyIjoiKzY2NjU1Njk1NzgyIiwiZmlyZWJhc2UiOnsiaWRlbnRpdGllcyI6eyJwaG9uZSI6WyIrNjY2NTU2OTU3ODIiXX0sInNpZ25faW5fcHJvdmlkZXIiOiJwaG9uZSJ9fQ.qc1gOJle2NWe0h0g3Xkp6ZGy-86Us6hCVlMs1CdE0-uTuh2e3kpAZnZHvK9Xtomx45gn3iePHF19ltfaJQn2GJU8xXtUXBi5Xg3WBwU7pykJgenuNjN0o3a8dmZs9Oj__WBTrtlTa2t87CFmwJ-nD-7vMJNt48JKY1GN-f-OBFVeonsi5sRLF0NcsZ8aQzy8SOsPiZFBKoVkV-dZMuf6e9IoKgKYln45mtML7YbMNb9DQlnb9xSh1pUuYR-7lJPXi7kFxxvJ0DIMz-SCiJIBKhg4WJTf2F64DGh9KDqfDpHfK1JPnq7jZNHmx0mc5LKGGzwPp6Agb3inrHDq4tV7pA",
+        "expirationTime": 1646989244796
+    },
+    "createdAt": "1646811542480",
+    "lastLoginAt": "1646985644048",
+    "apiKey": "AIzaSyBO9v3FeZZrzm4sFPHqX_iWPu-5lKS7Tq8",
+    "appName": "[DEFAULT]"
+}
